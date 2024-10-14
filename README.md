@@ -1,2 +1,2 @@
 # SenKVarghese-Portfolio
-Personal portfolio website for Sen K Varghese (Software Engineer)
+Personal portfolio website for Sen K Varghese (Software Engineer).
